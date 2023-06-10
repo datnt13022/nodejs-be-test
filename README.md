@@ -1,7 +1,7 @@
 # nodejs-be-test
 
 Follow these steps below to make sure the application running in the correct way
-Requirements
+
 ## Requirements
 
 For building and running the application you need:
